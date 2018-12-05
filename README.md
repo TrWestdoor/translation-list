@@ -8,6 +8,7 @@
 3. [使用递归神经网络（LSTMs）对时序数据进行预测](https://juejin.im/post/5bf8a70cf265da61776ba1dc)
 4. [通过集成学习提高机器学习效果](https://github.com/xitu/gold-miner/blob/706e410938b88c9b344bc37fc4a6234b607866ab/TODO1/ensemble-learning-to-improve-machine-learning-results.md)
 5. [鲜为人知的数据科学 Python 库](https://github.com/xitu/gold-miner/blob/cbca5438bbe0bedbe9b77d5f6a8d62ef69767296/TODO1/python-libraries-for-data-science-other-than-pandas-and-numpy.md)
+6. [支持向量机（SVM） 教程](https://github.com)
 
 ## block-chain
 #### 校对
