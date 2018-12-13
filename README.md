@@ -8,7 +8,7 @@
 3. [使用递归神经网络（LSTMs）对时序数据进行预测](https://juejin.im/post/5bf8a70cf265da61776ba1dc)
 4. [通过集成学习提高机器学习效果](https://juejin.im/post/5c0909d951882548e93806e0)
 5. [鲜为人知的数据科学 Python 库](https://juejin.im/post/5c075e09518825159512715f)
-6. [支持向量机（SVM） 教程](https://github.com)
+6. [支持向量机（SVM） 教程](https://juejin.im/post/5c126d9ff265da613f2f5a61)
 
 ## block-chain
 #### 校对
