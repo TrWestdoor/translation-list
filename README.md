@@ -10,6 +10,10 @@
 5. [鲜为人知的数据科学 Python 库](https://juejin.im/post/5c075e09518825159512715f)
 6. [支持向量机（SVM） 教程](https://juejin.im/post/5c126d9ff265da613f2f5a61)
 
+## 其它
+#### 校对
+1. [我无法想象没有 Git 别名的的场景](https://juejin.im/post/5c207bd4e51d452b7b032cf6)
+
 ## block-chain
 #### 校对
 1. [ELI5：用简单的语言给小白解释什么是以太坊？](https://juejin.im/post/5bb070b16fb9a05ce02a8a26)
