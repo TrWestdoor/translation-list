@@ -20,7 +20,8 @@
 ## 后端
 #### 翻译
 1. [无容器下的云计算](https://juejin.im/post/5c24800a518825673b02dcfe)
-2. [在 Python 中过度使用列表推导式和表达式生成器](https://github.com/xitu/gold-miner/pull/6059)
+#### 校对
+1. [在 Python 中过度使用列表推导式和表达式生成器](https://github.com/xitu/gold-miner/pull/6059)
 
 ## block-chain
 #### 校对
