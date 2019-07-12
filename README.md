@@ -21,7 +21,7 @@
 #### 翻译
 1. [无容器下的云计算](https://juejin.im/post/5c24800a518825673b02dcfe)
 #### 校对
-1. [在 Python 中过度使用列表推导式和表达式生成器](https://github.com/xitu/gold-miner/pull/6059)
+1. [列表推导式与表达式生成器在 Python 中的滥用](https://juejin.im/post/5d281b0ff265da1b8b2b8ae0)
 
 ## block-chain
 #### 校对
