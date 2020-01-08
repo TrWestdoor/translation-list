@@ -16,6 +16,7 @@
 9. [时间序列分析、可视化、和使用 LSTM 预测](https://juejin.im/post/5cecdbb75188252db706f4e9)
 10. [使用 What-If 工具来研究机器学习模型](https://juejin.im/post/5d143abff265da1bb80c4005)
 11. [在机器学习中为什么要进行 One-Hot 编码](https://juejin.im/post/5d15840e5188255c23553204)
+12. [列表推导式与表达式生成器在 Python 中的滥用](https://juejin.im/post/5d281b0ff265da1b8b2b8ae0)
 12. [由浅入深理解主成分分析](https://juejin.im/post/5d41321df265da03c926d65a)
 13. [人工智能何以留存](https://juejin.im/post/5d4c1155e51d4562061159d1)
 
